@@ -4,3 +4,7 @@ World Books
  O sistema World Books foi desenvolvido com o objetivo de incentivar a leitura e o compartilhamento de livros entre leitores, amigos e familiares, funcionando como uma biblioteca online comunitária. A plataforma possibilita o cadastro e a consulta de obras, autores e usuários, permitindo que o público acesse e compartilhe conteúdos literários de forma prática e acessível. O projeto busca promover o acesso à cultura e à leitura, contribuindo para a formação de novos leitores e o fortalecimento de uma rede colaborativa de troca de conhecimento. Dessa forma, o sistema se enquadra na categoria de “projeto cultural”, por apoiar iniciativas de difusão literária e inclusão cultural por meio da tecnologia.
 Desenvolvido com base em tecnologias Web modernas e hospedado em um provedor de Cloud, o sistema foi versionado no GitHub, garantindo controle de versões e fácil colaboração entre os membros do grupo. Além disso, aprimora e amplia versões anteriores do projeto, com melhorias na interface, nas operações de CRUD e na experiência do usuário.
 Assim, o World Books se consolida como uma ferramenta digital que une cultura, tecnologia e educação, incentivando o hábito da leitura e o compartilhamento do conhecimento.
+
+Site: https://pjuni.netlify.app/
+
+LINK DO YOUTUBE: https://youtu.be/E6ycev5C9IE
